@@ -1,6 +1,6 @@
-# Burp Suite Professional Report Generator Extension
+# Burp Suite  Report Generator Extension
 
-This Burp Suite Professional extension helps penetration testers create detailed vulnerability reports in both PDF and Word formats.
+This Burp Suite  extension helps penetration testers create detailed vulnerability reports in both PDF and Word formats.
 
 ## Features
 
