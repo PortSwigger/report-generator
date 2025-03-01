@@ -49,7 +49,7 @@ mvn clean package
 
 ## Requirements
 
-- Burp Suite Professional
+- Burp Suite 
 - Java 8 or higher
 - Maven (for building from source)
 
