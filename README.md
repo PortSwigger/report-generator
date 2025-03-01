@@ -37,7 +37,7 @@ This Burp Suite Professional extension helps penetration testers create detailed
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/burp-report-generator.git
+git clone https://github.com/GHULI3V/burp-report-generator.git
 ```
 
 2. Build with Maven
