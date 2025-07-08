@@ -3,11 +3,11 @@ ExtensionType: 1
 Name: Report Generator
 RepoName: report-generator
 ScreenVersion: 1.0.0
-SerialVersion: 1
+SerialVersion: 2
 MinPlatformVersion: 0
 ProOnly: True
 Author: GHULI3V
 ShortDescription: Create comprehensive vulnerability reports with customizable details, risk level classification, image support, and allows PDF or Word format output.
-EntryPoint: ./burp-extension-1.0-SNAPSHOT-jar-with-dependencies.jar
+EntryPoint: burp-extension-1.0-SNAPSHOT-jar-with-dependencies.jar
 BuildCommand: mvn clean install
 SupportedProducts: Pro
