@@ -5,9 +5,9 @@ RepoName: report-generator
 ScreenVersion: 1.0.0
 SerialVersion: 1
 MinPlatformVersion: 0
-ProOnly: False
+ProOnly: True
 Author: GHULI3V
-ShortDescription: This extension aids penetration testers in creating comprehensive vulnerability reports. It comes with customizable details, risk level classification, image support, and allows PDF or Word format output.
+ShortDescription: Create comprehensive vulnerability reports with customizable details, risk level classification, image support, and allows PDF or Word format output.
 EntryPoint: ./burp-extension-1.0-SNAPSHOT-jar-with-dependencies.jar
 BuildCommand: mvn clean install
-SupportedProducts: Pro, Community
+SupportedProducts: Pro
